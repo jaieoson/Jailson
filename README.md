@@ -1,7 +1,7 @@
-# Jailson - Programador Júnior (React, Next, Radix)
+# Jailson - DevFrontEnd (React, Next)
 
-😊😊 Eu trabalho hoje com Front-End React
+😊😊 Eu trabalho hoje com FrontEnd React
 
-🎓🎓 Estudando TypeScript
+🎓🎓 Estudando TypeScript, monorepo, figma
 
 🚀🚀 Contato no E-mail: jaieosom@gmail.com
